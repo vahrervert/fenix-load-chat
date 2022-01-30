@@ -1,5 +1,5 @@
  local args = {
-                   [1] = "-| Fenix Loaded for User " .. game.Players.LocalPlayer.Name;
+                   [1] = "|- Fenix Loaded for User " .. game.Players.LocalPlayer.Name .. " -|";
                    [2] = "All"
                    }
 
